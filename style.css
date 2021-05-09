@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: lightpink;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+img {
+    max-width: 20%;
+}
+
+#sa1 {
+    max-width: 25%;
+    border-radius: 99%;
+}
+
+#bio {
+    background-color: lightpink;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    border-radius: 2%;
+    
+    max-height: 20%;
+    margin-right: 40;
+}
+#photos {
+    background-color: black;
+}
+#socialmedia {
+    background-color: antiquewhite;
+}
+#kk {
+    height: 575;
+    max-width: 279;
+}
+#Ok {
+    margin-bottom: 80;
+}
